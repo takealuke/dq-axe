@@ -1,0 +1,17 @@
+{
+  "name": "dq-axe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@axe-core/webdriverjs": "^4.9.1",
+    "selenium-webdriver": "^4.21.0",
+    "test": "^3.3.0"
+  }
+}
